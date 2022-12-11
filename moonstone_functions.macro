@@ -9,12 +9,12 @@ setglobal moonstone_functionsfilerevision "20210808-1200-0008
  This works better than the ring (if you're not a super respia healer),
  as long as you can equip your moonstone.
  (If you use Gorvin’s RC2 macro, you can create a click set that
- calls healclick & lockclicked to allow more click option.)
+ calls healclick & lockclicked to allow more click options.)
  Bugs? Suggestions? Comments? write noivad -at- mac -dot- com.
  Original QuickSwap macro, setting pulse/burst and fall detection
  by Tarf. Modified by Noivad using Veer's feedback on the rev1 macro.
  *******************************************************************************
- Generate a new version at http://www.noivad.net/moonstone_functions-template.php
+ Generate a custom version at http://clanlord.net/moonstone_functions-template.php
  ********************* Installing, Setup and Activation Info ***************************
  To include this macro in your active macros.
 
